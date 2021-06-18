@@ -7,5 +7,5 @@ This a rest API of a Task-manager app which allows users to **signup/login, logo
 * **SendGrid**  - For sending welcome/goodbye emails to users
 * **MongoDB Compass and Robo3T** - GUIs to view the databases 
 ### Postman Collection
-If you are using Postman, you can import the file Task Apppostman.collection.json
+If you are using Postman, you can import the file Task App.postman_collection.json
 
