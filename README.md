@@ -6,7 +6,7 @@ This a rest API of a Task-manager app which allows users to **signup/login, logo
 * Authentication allowing login/signup/dlete account for users using JSON Web Tokens(JWT)
 * Validation and Error handling
 * File upload (profile picture for the users)
-* 
+
 ### Tools used
 * **MongoDB**   - NoSQL databse used to store the user credentials and their task list
 * **Postman**   - For making API calls
